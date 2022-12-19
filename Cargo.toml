@@ -1,0 +1,2 @@
+[workspace]
+members = ["tcp-syn-fw", "tcp-syn-fw-common", "xtask"]
